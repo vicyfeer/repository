@@ -1,0 +1,25 @@
+/* Usamos el identificador de la tabla para seleccionarla y aplicarle sus estilos. */
+table {
+    border-collapse: collapse; /*  border-collapse nos permite que las celdas de la tabla se vean separadas. */
+  }
+  
+  /* Usamos el identificador de td para seleccionarla y aplicarle sus estilos. */
+  td {
+    width: 50px; /*  width nos permite darle un ancho a las celdas de la tabla. */
+    height: 50px; /*  height nos permite darle un alto a las celdas de la tabla. */
+    text-align: center; /*  text-align nos permite centrar el texto de las celdas de la tabla. */
+    vertical-align: middle; /*  vertical-align nos permite centrar el texto de las celdas de la tabla. */
+    border: 1px solid black; /*  border nos permite darle un borde a las celdas de la tabla, el grosor es de 1px sólido y color negro. */
+    font-size: 36px; /*  font-size nos permite darle un tamaño a la fuente de las celdas de la tabla. */
+  }
+  
+  /* Usamos el identificador de la clase X para seleccionarla y aplicarle sus estilos. */
+  .X {
+    color: red; /*  color nos permite darle un color rojo. */
+  }
+  
+  /* Usamos el identificador de la clase O para seleccionarla y aplicarle sus estilos. */
+  .O {
+    color: blue; /*  color nos permite darle un color azul. */
+  }
+  
